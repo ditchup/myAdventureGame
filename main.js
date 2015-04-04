@@ -7,7 +7,7 @@ var sprout = stuff.sprout;
 sprout("easycanvas");//.onload = function () {console.log("easycanvas onload")};
 sprout("dom");
 //sprout("easybox");
-sprout("imagebank");
+//sprout("imagebank");
 /*
 sprout("drawer").onload = function () {
 	stuff.drawer.setIndex("images_made_by_DENZI", "Denzi150205-2.png", "monsters");
